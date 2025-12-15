@@ -10,14 +10,14 @@
 - [**S-Meter**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-S-Meter)  
   S-Meter plugin for FM-DX-Webserver.
 
-- [**Button Presets**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Button-Presets)  
+- [**Preset Buttons**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Button-Presets)  
   This plugin allows locally-stored frequency presets, displayed below general FM-DX-Webserver containers.
-
-- [**Station Logos OCE**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Station-Logos-OCE)  
-  Station Logos OCE + Station Info for no RDS.
 
 - [**UI Addon Pack**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-UI-Addon-Pack)  
   A collection of visual enhancements for FM-DX Webserver. Features may be added/removed in future.
+
+- [**Station Logos OCE**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Station-Logos-OCE)  
+  Station Logos OCE + Station Info for no RDS.
 
 - [**Frequency Volume Attenuator**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Frequency-Volume-Attenuator)  
   Frequency Volume Attenuator plugin for FM-DX Webserver.
