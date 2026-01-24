@@ -16,6 +16,9 @@
 - [**UI Addon Pack**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-UI-Addon-Pack)  
   A collection of visual enhancements for FM-DX Webserver. Features may be added/removed in future.
 
+- [**Inactivity Monitor**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Inactivity-Monitor)
+  Monitors for webpage user inactivity over a specified period of time before a popup asks the user if they are still there.
+
 - [**Station Logos OCE**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Station-Logos-OCE)  
   Station Logos OCE + Station Info for no RDS.
 
