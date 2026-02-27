@@ -22,6 +22,9 @@
 - [**Station Logos OCE**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Station-Logos-OCE)  
   Station Logos OCE + Station Info for no RDS.
 
+- [**Latest DX Logs**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Latest-DX-Logs)  
+  Displays a ticker of the most recent DX logs.
+
 - [**Frequency Volume Attenuator**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Frequency-Volume-Attenuator)  
   Frequency Volume Attenuator plugin for FM-DX Webserver.
 
