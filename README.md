@@ -13,7 +13,7 @@
 - [**Preset Buttons**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Button-Presets)  
   This plugin allows locally-stored frequency presets, displayed below general FM-DX-Webserver containers.
 
-- [**UI Addon Pack**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-UI-Addon-Pack)  
+- [**UI Addon Pack Enhanced**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-UI-Addon-Pack-Enhanced)  
   A collection of visual enhancements for FM-DX Webserver. Features may be added/removed in future.
 
 - [**Inactivity Monitor**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Inactivity-Monitor)  
