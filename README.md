@@ -31,7 +31,7 @@
 - [**Station Notes**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Station-Notes)  
   This plugin displays a note icon above the current frequency, displaying information about the selected frequency.
 
-- [**No Sleep Mobile**](github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-No-Sleep-Mobile)  
+- [**No Sleep Mobile**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-No-Sleep-Mobile)  
   No Sleep Mobile plugin for HTTP FM-DX-Webserver. Not required for HTTPS.
 
 ---
