@@ -22,6 +22,9 @@
 - [**Station Logos OCE**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Station-Logos-OCE)  
   Station Logos OCE + Station Info for no RDS.
 
+- [**Audio Settings**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Audio-Settings)  
+  Settings panel below the play button for tuning 3LAS audio-playback latency, volume limit, and buffering.
+
 - [**Latest DX Logs**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Latest-DX-Logs)  
   Displays a ticker of the most recent DX logs.
 
