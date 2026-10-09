@@ -4,37 +4,37 @@
 
 ## 🌟 Popular Plugins
 
-- [**Spectrum Graph**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Spectrum-Graph)  
+- ### [**Spectrum Graph**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Spectrum-Graph)  
   Spectrum Graph for FM-DX Webserver. This displays the FM radio band in a spectrum window.
 
-- [**S-Meter**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-S-Meter)  
+- ### [**S-Meter**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-S-Meter)  
   S-Meter plugin for FM-DX-Webserver.
 
-- [**Preset Buttons**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Button-Presets)  
+- ### [**Preset Buttons**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Button-Presets)  
   This plugin allows locally-stored frequency presets, displayed below general FM-DX-Webserver containers.
 
-- [**UI Addon Pack Enhanced**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-UI-Addon-Pack-Enhanced)  
+- ### [**UI Addon Pack Enhanced**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-UI-Addon-Pack-Enhanced)  
   A collection of visual enhancements for FM-DX Webserver. Features may be added/removed in future.
 
-- [**Inactivity Monitor**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Inactivity-Monitor)  
+- ### [**Inactivity Monitor**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Inactivity-Monitor)  
   Monitors for webpage user inactivity over a specified period of time before a popup asks the user if they are still there.
 
-- [**Station Logos OCE**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Station-Logos-OCE)  
+- ### [**Station Logos OCE**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Station-Logos-OCE)  
   Station Logos OCE + Station Info for no RDS.
 
-- [**Audio Settings**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Audio-Settings)  
+- ### [**Audio Settings**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Audio-Settings)  
   Settings panel below the play button for tuning 3LAS audio-playback latency, volume limit, and buffering.
 
-- [**Latest DX Logs**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Latest-DX-Logs)  
+- ### [**Latest DX Logs**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Latest-DX-Logs)  
   Displays a ticker of the most recent DX logs.
 
-- [**Frequency Volume Attenuator**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Frequency-Volume-Attenuator)  
+- ### [**Frequency Volume Attenuator**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Frequency-Volume-Attenuator)  
   Frequency Volume Attenuator plugin for FM-DX Webserver.
 
-- [**Station Notes**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Station-Notes)  
+- ### [**Station Notes**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Station-Notes)  
   This plugin displays a note icon above the current frequency, displaying information about the selected frequency.
 
-- [**No Sleep Mobile**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-No-Sleep-Mobile)  
+- ### [**No Sleep Mobile**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-No-Sleep-Mobile)  
   No Sleep Mobile plugin for HTTP FM-DX-Webserver. Not required for HTTPS.
 
 ---
