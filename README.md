@@ -25,6 +25,9 @@
 - ### [**Audio Settings**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Audio-Settings)  
   Settings panel below the play button for tuning 3LAS audio-playback latency, volume limit, and buffering.
 
+- ### [**Video Recorder**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Video-Recorder)  
+  Adds a button to allow client-side video recordings to be made within FM-DX Webserver.
+
 - ### [**Latest DX Logs**](https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Latest-DX-Logs)  
   Displays a ticker of the most recent DX logs.
 
